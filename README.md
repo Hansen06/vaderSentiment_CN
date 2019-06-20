@@ -13,4 +13,5 @@ negative sentiment: compound score <= -0.05<br>
 >positive sentiment: compound score > -0.05<br>
 negative sentiment: compound score <= -0.05<br>
   
-本项目没有做对应的中文情感词典，而是将中文调用google翻译，翻译成英文进行判定，没想到效果还是不错的。
+本项目没有做对应的中文情感词典，而是将中文调用google翻译，翻译成英文进行判定，没想到效果还是不错的。<br>
+实验数据集采用谭松波老师的酒店评论数据集。
